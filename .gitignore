@@ -1,0 +1,9 @@
+BasketDAL/bin/*
+BasketDAL/obj/*
+ShoppingListService/obj/*
+ShoppingListService/bin/*
+packages/*
+checkout-basket/bin/*
+checkout-basket/obj/*
+checkoutModels/obj/*
+checkoutModels/bin/*
